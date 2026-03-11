@@ -11,21 +11,21 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you sure? 🤔",
-    "Really? Think again... 🥺",
-    "My heart is breaking... 💔",
-    "Please don't say that... 😢",
-    "You're making me cry... 😭",
-    "I can't believe this...",
-    "One more chance? 🥹",
-    "You can't catch me anyway! 😜"
+    "Wait, really? 💔",
+    "Are you absolutely sure? 🥺",
+    "But... I love you so much... 💕",
+    "If you say no, I will be really sad...",
+    "Please say you love me... 🥹",
+    "I'm crying now... 😭💔",
+    "Just give me one more chance... 🙏",
+    "You can't escape my love anyway! 😜💕"
 ]
 
 const yesTeasePokes = [
-    "hmm... try clicking 'No' first, I dare you 😏",
-    "wait... click 'No' and see what happens 👀",
-    "you're curious, aren't you? try 'No' 😈",
-    "I bet you won't click 'No'... or will you? 😏"
+    "wait... click 'No' first, I dare you 💕😏",
+    "try clicking 'No' and see the magic 😈",
+    "I know you want to click 'No'... do it! 👀",
+    "don't be afraid to click 'No'... or are you? 😏💕"
 ]
 
 let yesTeasedCount = 0
