@@ -15,7 +15,7 @@ const noMessages = [
     "Really? Think again... 🥺",
     "My heart is breaking... 💔",
     "Please don't say that... 😢",
-    "You're making me cry... �",
+    "You're making me cry... 😭",
     "I can't believe this...",
     "One more chance? 🥹",
     "You can't catch me anyway! 😜"
@@ -23,8 +23,8 @@ const noMessages = [
 
 const yesTeasePokes = [
     "hmm... try clicking 'No' first, I dare you 😏",
-    "wait... click 'No' and see what happens �",
-    "you're curious, aren't you? try 'No' �",
+    "wait... click 'No' and see what happens 👀",
+    "you're curious, aren't you? try 'No' 😈",
     "I bet you won't click 'No'... or will you? 😏"
 ]
 
